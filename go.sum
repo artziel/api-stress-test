@@ -1,0 +1,14 @@
+github.com/artziel/go-console v1.0.6 h1:hM8sn/jsxgp2z47yQT1pTQmSww3eEdeVv5u7H2ly6+w=
+github.com/artziel/go-console v1.0.6/go.mod h1:zhNhkxhIqAlV7OCihArNsY6Q16fX3cWbnPBAkH+TQbQ=
+github.com/artziel/go-parallel v1.0.0 h1:Tw2TIQGeArQ5bPYPyYHDLYL76HzIcP+PysuZF4PuRfA=
+github.com/artziel/go-parallel v1.0.0/go.mod h1:8IuTCV4EES4F8H110u1aWufPzxYTuVh7+cB7fU/aJxU=
+github.com/artziel/go-utilities v1.0.1 h1:wibckGVKQhMhMhlBacm3VC5XUjVse6ka/9aAsuypZCA=
+github.com/artziel/go-utilities v1.0.1/go.mod h1:qqFGvzQ8K33wcsUEHaj9fFlSfiSq1dHoYfkX2dkmhAw=
+golang.org/x/sys v0.0.0-20220823224334-20c2bfdbfe24 h1:TyKJRhyo17yWxOMCTHKWrc5rddHORMlnZ/j57umaUd8=
+golang.org/x/sys v0.0.0-20220823224334-20c2bfdbfe24/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/term v0.0.0-20220722155259-a9ba230a4035 h1:Q5284mrmYTpACcm+eAKjKJH48BBwSyfJqmmGDTtT8Vc=
+golang.org/x/term v0.0.0-20220722155259-a9ba230a4035/go.mod h1:jbD1KX2456YbFQfuXm/mYQcufACuNUgVhRMnK/tPxf8=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=

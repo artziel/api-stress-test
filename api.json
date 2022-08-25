@@ -1,0 +1,27 @@
+{
+    "endpoints": [
+        {
+            "method": "GET",
+            "url": "http://localhost:8099/categories",
+            "header": {
+                "Authorization": [ "Bearer 1241e76e85dde61713558db190d6109b" ],
+                "Accept": [ "application/json" ]
+            },
+            "iterations": 1,
+            "concurrents": 1,
+            "payload": ""
+        },
+        {
+            "method": "GET",
+            "url": "https://www.google.com",
+            "iterations": 100,
+            "concurrents": 10,
+            "xx": {
+                "id": 1,
+                "name": "xxx",
+                "lastname": "yyy",
+                "email": "yyy.xxx@gmail.com"
+            }
+        }
+    ]
+}
