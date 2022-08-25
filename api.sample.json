@@ -9,19 +9,18 @@
             },
             "iterations": 1,
             "concurrents": 1,
-            "payload": ""
-        },
-        {
-            "method": "GET",
-            "url": "https://www.google.com",
-            "iterations": 100,
-            "concurrents": 10,
-            "xx": {
+            "data": {
                 "id": 1,
                 "name": "xxx",
                 "lastname": "yyy",
                 "email": "yyy.xxx@gmail.com"
             }
+        },
+        {
+            "method": "GET",
+            "url": "https://www.google.com",
+            "iterations": 100,
+            "concurrents": 10
         }
     ]
 }
